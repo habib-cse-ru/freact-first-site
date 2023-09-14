@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "ThumbnailImage": "https://i.ibb.co/wNKh5F7/profile.png",
+        "AuthorName": "Sarah Johnson",
+        "AuthorImage": "https://i.ibb.co/wNKh5F7/profile.png",
+        "PublishDate": "2023-09-03",
+        "ReadingTimeMinutes": 5,
+        "Tags": ["Technology", "Gadgets", "Innovation"],
+        "Mark": 4.5
+    },
+    {
+        "id": 2,
+        "ThumbnailImage": "https://i.ibb.co/Rgc2nR2/girl2.jpg",
+        "AuthorName": "David Smith",
+        "AuthorImage": "https://i.ibb.co/Rgc2nR2/girl2.jpg",
+        "PublishDate": "2023-08-21",
+        "ReadingTimeMinutes": 7,
+        "Tags": ["Travel", "Adventure", "Photography"],
+        "Mark": 4.2
+    },
+    {
+        "id": 3,
+        "ThumbnailImage": "https://i.ibb.co/MkjcfxS/girl1.jpg",
+        "AuthorName": "Emily Brown",
+        "AuthorImage": "https://i.ibb.co/MkjcfxS/girl1.jpg",
+        "PublishDate": "2023-07-12",
+        "ReadingTimeMinutes": 6,
+        "Tags": ["Health", "Fitness", "Nutrition"],
+        "Mark": 4.7
+    },
+    {
+        "id": 4,
+        "ThumbnailImage": "https://i.ibb.co/nPdKBW8/boy2.jpg",
+        "AuthorName": "Michael Adams",
+        "AuthorImage": "https://i.ibb.co/nPdKBW8/boy2.jpg",
+        "PublishDate": "2023-06-25",
+        "ReadingTimeMinutes": 8,
+        "Tags": ["Fashion", "Style", "Trends"],
+        "Mark": 4.0
+    },
+    {
+        "id": 5,
+        "ThumbnailImage": "https://i.ibb.co/ccbBnC6/boy1.png",
+        "AuthorName": "Jennifer White",
+        "AuthorImage": "https://i.ibb.co/ccbBnC6/boy1.png",
+        "PublishDate": "2023-06-10",
+        "ReadingTimeMinutes": 4,
+        "Tags": ["Food", "Recipes", "Cooking"],
+        "Mark": 4.9
+    },
+    {
+        "id": 6,
+        "ThumbnailImage": "https://i.ibb.co/K5jZj2x/4.jpg",
+        "AuthorName": "Daniel Clark",
+        "AuthorImage": "https://i.ibb.co/K5jZj2x/4.jpg",
+        "PublishDate": "2023-05-18",
+        "ReadingTimeMinutes": 6,
+        "Tags": ["Movies", "Entertainment", "Reviews"],
+        "Mark": 4.3
+    },
+    {
+        "id": 7,
+        "ThumbnailImage": "https://i.ibb.co/xDL8nYs/3.png",
+        "AuthorName": "Olivia Davis",
+        "AuthorImage": "https://i.ibb.co/xDL8nYs/3.png",
+        "PublishDate": "2023-04-29",
+        "ReadingTimeMinutes": 7,
+        "Tags": ["Science", "Nature", "Environment"],
+        "Mark": 4.6
+    },
+    {
+        "id": 8,
+        "ThumbnailImage": "https://i.ibb.co/jb6Z2js/2.png",
+        "AuthorName": "John Wilson",
+        "AuthorImage": "https://i.ibb.co/jb6Z2js/2.png",
+        "PublishDate": "2023-03-15",
+        "ReadingTimeMinutes": 5,
+        "Tags": ["Music", "Artists", "Concerts"],
+        "Mark": 4.4
+    },
+    {
+        "id": 9,
+        "ThumbnailImage": "https://i.ibb.co/Zf8Lfbq/1.jpg",
+        "AuthorName": "Emma Roberts",
+        "AuthorImage": "https://i.ibb.co/Zf8Lfbq/1.jpg",
+        "PublishDate": "2023-02-27",
+        "ReadingTimeMinutes": 6,
+        "Tags": ["Education", "Learning", "Skills"],
+        "Mark": 4.8
+    },
+    {
+        "id": 10,
+        "ThumbnailImage": "https://i.ibb.co/Zf8Lfbq/1.jpg",
+        "AuthorName": "Robert Anderson",
+        "AuthorImage": "https://i.ibb.co/Zf8Lfbq/1.jpg",
+        "PublishDate": "2023-01-10",
+        "ReadingTimeMinutes": 5,
+        "Tags": ["Technology", "Programming", "Coding"],
+        "Mark": 4.1
+    }
+]
